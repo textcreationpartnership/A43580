@@ -1,0 +1,1172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Job's appeal Being a funeral discourse delivered at Northonnam in York-shire, upon occasion of the death of Mr. Jonathan Denton, wherein a Christian's state is stated before God, and his sufferings from the hand of God cleared. Grounded upon Job X.7. By Oliver Heywood, minister of the gospel.</title>
+            <author>Heywood, Oliver, 1629-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43580</idno>
+            <idno type="STC">Wing H1769</idno>
+            <idno type="STC">ESTC R216792</idno>
+            <idno type="EEBO-CITATION">99828511</idno>
+            <idno type="PROQUEST">99828511</idno>
+            <idno type="VID">32939</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43580)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32939)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1867:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Job's appeal Being a funeral discourse delivered at Northonnam in York-shire, upon occasion of the death of Mr. Jonathan Denton, wherein a Christian's state is stated before God, and his sufferings from the hand of God cleared. Grounded upon Job X.7. By Oliver Heywood, minister of the gospel.</title>
+                  <author>Heywood, Oliver, 1629-1702.</author>
+               </titleStmt>
+               <extent>[8], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for B. Aylmer, at the Three Pigeons over against the Royal Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A funeral sermon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Denton, Jonathan.</term>
+               <term>Bible --  O.T. --  Job X, 7 --  Sermons --  Early works to 1800.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32939:1" rendition="simple:additions"/>
+            <p>JOB's Appeal. BEING <hi>A Funeral Diſcourſe</hi> Delivered at <hi>NORTHONNAM</hi> in <hi>York-ſhire,</hi> Upon Occaſion of the Death of Mr. JONATHAN DENTON, WHEREIN A Chriſtian's State is ſtated before GOD, and his Sufferings from the Hand of GOD cleared.</p>
+            <p>Grounded upon <hi>JOB</hi> x. 7.</p>
+            <p>By <hi>OLIVER HEYWOOD,</hi> Miniſter of the Goſpel.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>B. Aylmer,</hi> at the <hi>Three Pigeons</hi> over againſt the <hi>Royal Exchange</hi> in <hi>Cornhill,</hi> 1695.</p>
+            <pb facs="tcp:32939:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:32939:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:32939:3"/>
+            <pb facs="tcp:32939:3"/>
+            <head>To His Worthy Friend, Mr. <hi>John Denton,</hi> In <hi>Southwark,</hi> near <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Dear Friend,</salute>
+            </opener>
+            <p>THE Conception and Birth of theſe Two Sermons was ſhort and ſudden, as the Tydings of the Death of your Dear Brother, my Cordial Friend, was ſurpri<g ref="char:EOLhyphen"/>zing to me; and the Tranſcribing of theſe Notes an unexpected Motion, managed ſomething prepoſterouſly, with a ſlight Hand, ſnatch<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d from my many other preſſing Occaſions, and now ſent to you, upon the Requeſt of ſome Relations to you and your dear deceaſed Brother, by his very weak unworthy Pastor, who had the Knowledge of him, and Inſpection over him, many Years, and can teſtifie to the Comfort of his ſurviving Friends, that he was a Man of good <g ref="char:V">Ʋ</g>nderstanding, ſolid Judgment, ſavory Spirit, and blameleſs Converſation; of good uſe in the Society where he was a Member, beloved of all that knew him, and very imitable in his modeſt, humble, chaſte Converſation, in a ſingle Condition; his Contempt of the World, Mortifiedneſs to Pleaſures and Honours, Diligence in both general and particular Calling, studying the Word of God, reading good Books, conſtant Attendance on Ordinances, writing Sermons, ingenuous asking Caſes of Conſcience; his Abilities in Prayer, Diſcourſe, ſeriouſneſs in the practick part of Reli<g ref="char:EOLhyphen"/>gion;
+<pb facs="tcp:32939:4"/>to which Many will bear their Teſtimony, and are con<g ref="char:EOLhyphen"/>cerned for the loſs of him. Theſe things I write to you, not as informing you, nor flattering him, which cannot at all add to his preſent Happineſs, but to quicken us in our Dili<g ref="char:EOLhyphen"/>gence, and as a Memorial of the Dead that <hi>dye in the Lord;</hi> for God hath ſaid, <hi>The Memory of the Juſt is bleſſed,</hi> and <hi>ſuch as have obtained a good Report thro' Faith,</hi>
+               <note place="margin">
+                  <hi>Prov. 10 7. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eb. 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.39.</hi>
+               </note> may be preſented to ſurviving Generations, for their imi<g ref="char:EOLhyphen"/>tation, eſpecially ſince our dead Friend left us Posterity to bear up his Name.</p>
+            <p>Notwithſtanding his even Carriage, yet his Heavenly Father thought fit to exerciſe him towards the latter end of his days with Severe Afflictions, both in his Body and Spi<g ref="char:EOLhyphen"/>rit: His Body was a meer Skeleton, worn away, decrepit; and tho' he had been very active and agile, yet had much ado to go upon Crutches, thro' a violent <hi>Rheumatiſm</hi> ſei<g ref="char:EOLhyphen"/>zing his lower parts: His Mind was much diſquieted with the ſenſe of his own guiltineſs great unprofitableneſs under Means of Grace, much <g ref="char:V">Ʋ</g>nbelief, Hypocriſie, which oft gave him occaſion to call his ſtate into queſtion; ſo that he told me he had great Fears upon him about his Sincerity, and queſtioned how matters would prove at laſt, and Satan ſet in with his violent Temptations, and GOD alſo ſuſpended the Light if his Countenance and Sealings of his Spirit; ſo that he walk'd in darkneſs for a conſiderable time: Yet before he dyed, the Lord ſcattered his Fears, erected his Hopes, and ſhined upon his Soul with the Beams of his Love, and the Lord carried him off the Stage comfortably, honou<g ref="char:EOLhyphen"/>rably, yea, triumphantly. He ſlept in the Lord <hi>July</hi> the Fifth, and was interred at <hi>Hallifax July</hi> the Eighth, <hi>1695.</hi>
+            </p>
+            <p>The Spiritual Legacies he left were, <hi>1.</hi> Advice to his Friends; <hi>2.</hi> This Text.</p>
+            <p>
+               <hi>1.</hi> He had given ſeveral weighty pieces of his Counſel to ſeveral of his Friends and Relations formerly; near his End he ſaid to a Young Man that came to viſit him, <hi>Oh
+<pb facs="tcp:32939:4"/>Friend! now, by the Grace of God I am ready; come Lord Jeſus: Oh, be ſure you get ready for this dying hour; ſee to the getting of the Spirit of God, in what you do, you may pump for Expreſſions and Affections, but ſee you get the Spirit of God, for where the Spirit is, there is Liberty.</hi> Several things beſides he ſaid, but the Diſtemper going up into his Head, and he not ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeping of a long time, was not ſo ſenſible and capable of Diſcourſe as he had been.</p>
+            <p>
+               <hi>2.</hi> The other Legacy he left was this Text. A Relation of his apprehending danger of his Death, asked him what he would have me to do for him (he having given an hint of his Mind before) he anſwered, He would deſire me to preach a Funeral Sermon out of thoſe words, <hi>Job 10.7, There is none that can deliver out of thine hand.</hi> I had notice of it when I was abroad, and at my return preached on Lord's Day, <hi>July 14. 1695,</hi> on that ſecond part, accor<g ref="char:EOLhyphen"/>ding to Order, but have prefixed ſomething to it on the for<g ref="char:EOLhyphen"/>mer part of the Text, becauſe I knew it was, firſt, proper to him, ſecondly, profitable to us all; and wiſh from my Soul we could all appeal thus ſincerely to the Heart-ſearching God, who then would tranſmit our afflicted Souls and Bodies out of the hands of Juſtice into the hands of Mercy.</p>
+            <p>There's none of the Servants of God, but they meet with a ſevere Purgatory in this Life, and paſs through Seas of Trouble to the Haven of Reſt, which make them Sea-ſick, and did not our bleſſed Pilot ſecure them,
+<note place="margin">
+                  <hi>Pſal. 42.</hi>
+               </note> they would ſplit upon dangerous Rocks of Preſumption or Deſpair: ſometimes <hi>Deep calls to Deep,</hi> which imports,
+<note place="margin">
+                  <hi>Dr.</hi> Horton, in loc.</note> (as a learned Expoſi<g ref="char:EOLhyphen"/>tor obſerves) 1. Variety or plurality of Evils, and Evil in one kind to an Evil in another; Troubles of Body, Mind, eſtate, <hi>manifold Temptations; without Fightings,
+<note place="margin">
+                     <hi>2 Pet. 1.6.2 Cor. 7.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi>
+                  </note> with<g ref="char:EOLhyphen"/>in Fears. 2.</hi> Conjunction of Evils, one Evil within ano<g ref="char:EOLhyphen"/>ther; not as in a Channel where Water runs, and leſſens in running, but divers Waters meeting, make a vaſt Flood;
+<pb facs="tcp:32939:5"/>not ſucceſſively,
+<note place="margin">
+                  <hi>Job 16.14.</hi>
+               </note> but <hi>breach upon breach,</hi> all at once.</p>
+            <p>Yea, <hi>3.</hi> A Connexion or dependance of one Evil upon another; one Calamity invites another, as if God purſued us till he make an end of us, proceeding in Puniſhments. This was the Conception of this good Man, that had God's Hand on his Body, Soul, as is Earth, Heaven, and Hell conſpired to make him every way miſerable; Deſertions from God, Temptations from Satan; for that curſed Coward ſets on God's Children where they are weakeſt: God orders this for wiſe and gracious Ends, partly to try our Spirits, exerciſe Graces, prevent worſe Evils, keep us humble, con<g ref="char:EOLhyphen"/>form us to Chriſt, teach us to live by Faith, to long for Chriſt and Heaven, and prepare us for divine Cordials. To be ſure, God's great care is to ſecure the main Stake in his Children; He will not ſuffer their Souls to miſcarry; He would rather his Children ſhould go to Heaven maim<g ref="char:EOLhyphen"/>ed, than go to Hell with all their Limbs; yea, it may be they will march on faſter lame, or ſee Heavenly Things bet<g ref="char:EOLhyphen"/>ter when bodily blind, or hear God's Voice better when cor<g ref="char:EOLhyphen"/>porally deaf, than otherwiſe: And our Bleſſed Saviour ſaith, <hi>It's better want any Member than be damned.</hi>
+               <note place="margin">
+                  <hi>Mat. 5.29.32.</hi>
+               </note> Strong Humors muſt have ſtrong Phyſick to work them out, but bit<g ref="char:EOLhyphen"/>ter Pills bring ſweet Health; and the Almighty God ſup<g ref="char:EOLhyphen"/>ports, ſanctiſtes, and at laſt ſatisfies the afflicted, tempted Soul, that all this was but needful. It was a fine Saying of <hi>Luther</hi>'s concerning Satan, by whom he was ſo often buffered, <hi>[Eſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o, Diabolis magnipotens, nunquam erit omnipotens].</hi> The Devil is mighty, never Almighty; he may foil us, but never our Captain; the Lyon of the Tribe of <hi>Judah</hi> hath conquered the roaring Lyon.</p>
+            <p>We little know what ſhocks and batteries we may meet with from GOD, Satan, World, our own Conſcience: if we be Graceleſs, Chriſtleſs, wee to us. How dreadful is the caſe of a poor Sinner when Death arreſts, Conſcience accuſeth, the Devil roars, Hell gapes, GOD frowns, and Vengeance
+<pb facs="tcp:32939:5"/>purſues him, and he hath no Burrough to flee to! he never thought of ſuch a day, never made proviſion, took no care to get furniſh'd for ſuch a Storm, and now, Sinners, ſhall <hi>go into the holes of the rock,
+<note place="margin">
+                     <hi>Iſa. 2.19, 21.</hi>
+                  </note> and into the caves of the Earth, for fear of the Lord, and for the glory of his Majeſty, when He ariſeth to ſhake terribly the earth.</hi> How little will Cap and Knee from Men, or many Thouſands a Year, or wallowing in ſenſual Pleaſures, avail in ſuch a day! Beds of Ivory, numerous Attendants, pompous Fune<g ref="char:EOLhyphen"/>rals, rhetorical Panegyricks profit not the tormented Soul of poor <hi>Dives</hi> in Hell, of whom it may be ſaid as once of <hi>Ariſtotle, [Laudatur ubi non eſt, Cruciatur ubi eſt;]</hi> "He is Praiſed where he is not, but Tormented where he is.</p>
+            <p>Oh that the variety of Inſtances of our Mortality might alarm our Souls to a preparation for that last Encounter, for go we muſt, ready or unready, when God calls Heaven and Hell are before us; when Breath goes out of our Bodies, our Souls lanch into the vaſt Ocean of Eternity, to be crowned or confoun<g ref="char:EOLhyphen"/>ded. No doubt but the worſt of Men, from a principle of Self-preſervation, would be happy at death;
+<note place="margin">
+                  <hi>Numb. 23.10.</hi>
+               </note> a <hi>Balaam</hi> will be content to <hi>dye the death of the righteous;</hi> as 'tis storied of the young Gallant, with his ſwaggering Companion, when standing by dying <hi>Ambroſe,</hi> ſeeing his carriage, hearing him ſweetly welcome Death, he ſaid to his Companion, <hi>Oh, that I might live with thee, and dye with</hi> Ambroſe! Alas, vain Fools, think to reap Wheat when they ſowed Tares, and find a Pearl that laid up Dirt: Men may cheat themſelves, but cannot mock GOD;
+<note place="margin">
+                  <hi>Gal. 6.7. Heb. 12.14.</hi>
+               </note> 
+               <hi>Such as Men ſow ſuch ſhall they reap; without Holineſs no man ſhall ſee God.</hi> Certainly God knows his own, and will not take the wicked by the Hand, to lead them into his glorious Manſions when they have ſinned as long as they can, and confronted his glo<g ref="char:EOLhyphen"/>rious Majeſty with their Rebellions. Alas, how careleſly do moſt men live, keeping vain company, talking <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>idly, miſpending precious Time, neglecting God's Worſhip in Fa<g ref="char:EOLhyphen"/>mily,
+<pb facs="tcp:32939:6"/>in Secret, heedleſs in their dealings with Men, li<g ref="char:EOLhyphen"/>ving at large, heed not which end goes forward, wondering at and cenſuring others for their niceneſs, zeal, and tender<g ref="char:EOLhyphen"/>neſs, yet hope to go to Heaven as well as the best of them all: Oh, what a diſappointment will theſe wretched Souls meet with, when gracious and induſtrious Saints are ſaved with ſo much difficulty!
+<note place="margin">
+                  <hi>1 Pet. 4.18.</hi>
+               </note>
+            </p>
+            <p>I do humbly tender this ſhort and mean Diſcourſe to you, begging your kind acceptance of it, and profit by it. <g ref="char:V">Ʋ</g>ſe it as you pleaſe, ſo it may anſwer my Ends: It's full of good will, both as a Teſtimony of my due reſentment of the Memory of my dear deceaſed Friend, and earneſt deſires of your Soul's Health and Happineſs here and hereafter; for whom, and the reſt of Relations, I am bound to conti<g ref="char:EOLhyphen"/>nue my poor Prayers, That we may meet before the Throne, cloathed with the Wedding-garment,
+<note place="margin">
+                  <hi>Mat. 22.11.</hi>
+               </note> that fine Linnen, clean and white,
+<note place="margin">Rev. 19.8.</note> which is the Righteouſneſs of the Saints, having the Bleſſed JES<g ref="char:V">Ʋ</g>S to ſpeak for us as our Advocate; to whoſe Hands I commit You and Yours, whilſt I am</p>
+            <closer>
+               <signed>Your Cordial, Well-wiſhing Friend, <hi>O.H.</hi>
+               </signed>
+               <date>Aug. 8. 1695.</date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:32939:6"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>JOB X. 7.</hi>
+                  </bibl>
+                  <p>Thou knoweſt that I am not wicked: And there is none that can deliver out of thine hand.</p>
+               </q>
+            </epigraph>
+            <p>THIS Text contains the Sum and Marrow of the grand Controverſie betwixt afflicted <hi>Job</hi> and his cenſuring Friends: They will needs prove <hi>Job</hi> to be a wicked man. The Devil and <hi>Job</hi>'s Friends ſpeak the ſame Language, only Satan preſumes upon it, That if God will <hi>touch</hi> Job<hi>'s Fleſh, he will curſe him to his Face;</hi> ch. 2.5. His Friends un<g ref="char:EOLhyphen"/>charitably accuſe him as one that had curſed God, or committed ſome ſcandalous Sin, and therefore God did ſo ſeverely touch his Fleſh.</p>
+            <p>Againſt this Charge <hi>Job</hi> makes his Appeal to the heart-ſearching God, and ſaith, <hi>Thou knoweſt that I am not wicked.</hi>
+            </p>
+            <p>The latter part of the Text ſpeaks, 1. A Conceſſion; I may for all my Integrity be in God's Hand; <hi>i.e.</hi> in the correcting Hand of God. 2. An Aſſertion; <hi>None can deliver out of thine hands; q d.</hi> I may continue long under it, and no power in Heaven and Earth can reſcue me, except God himſelf ſet me at liberty.</p>
+            <p>A word of the former, tho' the latter be the Subject aſſigned to me: [<hi>Thou knowest</hi>] The words are very emphatical in the firſt Language; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>i.e. It is upon thy knowledge that I am not wicked; q. d.</hi> Thou haſt not this Knowledge from without, <hi>i. e.</hi> from Reports or Hearſay; no, thy Knowledge is from thy ſelf, it's inter<g ref="char:EOLhyphen"/>nal, immediate, and therefore perfect and infallible.</p>
+            <pb n="2" facs="tcp:32939:7"/>
+            <p> 
+               <hi>Obj.</hi> 1. GOD exactly knows every Man's ſtate and frame: His Knowledge is not conſequent but concomi<g ref="char:EOLhyphen"/>tant of his Search;
+<note place="margin">Jer. 17.9 Acts 15.8, 18.</note> 
+               <hi>All thing's are naked and opened unto the Eyes of him with whom we have to do,</hi> Heb. 4.13. GOD's Line ſoundeth Man's Depth; himſelf anatomizeth all our parts, our Perſons and Actions are manifeſt to God now,
+<note place="margin">2 Cor. 5 1<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 11</note> and ſhall be laid open before Angels and Men at the great day.</p>
+            <p>
+               <hi>Thou knoweſt that I am not wicked.</hi>]
+<note place="margin">
+                  <hi>Haer<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> Rege<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ts prec<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>tium impre<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>i tamen dici non poſſunt nec deb<gap reason="illegible: faint" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>nt.</hi> Merc.</note> He ſaith not that I am not a Sinner; alas, there's too much Sin in me, Sin (ſaith an Interpreter) ſticks in the Regenerate, yet they cannot or ought not to be called wicked; God gives the Denomination from the better part: The beſt Saints are but Sinners, the worſt Saints are not wicked; they are indeed Sinners by their remaining Corruption, but god<g ref="char:EOLhyphen"/>ly by receiv'd Renovation.</p>
+            <p>The word here [<hi>That I am not wicked</hi>] is a Verb, [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] <hi>quod non imple egerim;</hi> as <hi>David, Pſ.</hi> 18.21. <hi>And have not wickedly departed from my God; i. e.</hi> in a courſe of ſinning.</p>
+            <p>The Phraſe alſo imports a being condemned and caſt at God's Bar, as a wicked man, <hi>Pſ.</hi> 109.7. <hi>when, he is judged let him be condemned</hi> [<hi>Erat improbus</hi>] let him go forth as a condemned Malefactor. I dare appeal to the All wiſe Heart-ſearching God, that I am not ſuch an one.</p>
+            <p>
+               <hi>Doct.</hi> 1. <hi>That a truly gracious Soul dare Appeal to God, that he is not wicked.</hi>
+            </p>
+            <p>The Child of God makes God Witneſs of his Integri<g ref="char:EOLhyphen"/>ty; when Enemies ſcorn, Satan accuſeth, Conſcience nips, and God himſelf keeps at a diſtance, then the de<g ref="char:EOLhyphen"/>vout Soul can ſay as <hi>Job</hi> 16.19. <hi>Alſo now behold, my wit<g ref="char:EOLhyphen"/>neſs is in Heaven, and my Record is on high.</hi>
+            </p>
+            <p>This may ſeem a Paradox, but it's a great Truth, that the holieſt Saint on Earth dare not juſtifie himſelf before God, yet he dare ſtand before God to juſtifie his Integri<g ref="char:EOLhyphen"/>ty.
+<pb n="3" facs="tcp:32939:7"/>This muſt be underſtood in an evangelical ſence, not in a legal, thro' Chriſt the Mediator, not as in him<g ref="char:EOLhyphen"/>ſelf, according to the Covenant of Grace, not of Works. A great Divine ſaith,
+<note place="margin">
+                  <hi>Journal Ar<g ref="char:EOLhyphen"/>mour,</hi> par. 2 p. 88.</note> The Goſpel-Covenant relaxeth the rigor of the Law, which called for compleat Obedience, by reſolving all that into this of Sinecrity and Truth. When we go upon the Tryal for our Lives before <hi>Chriſt's Bar,</hi> the great Inqueſt will be, whether we have been ſincere or not; he means not that Sincerity is ſet up in Chriſt's Room, but as it is evidential of our Intereſt in him: Hence ſaith <hi>Job, Let me be weighed in an even ba<g ref="char:EOLhyphen"/>lance, that God may know mine integrity, Job</hi> 31.16. He means a Goſpel-balance, for <hi>by the works of the law ſhall no Fleſh be juſtified;</hi> nor doth he mean,
+<note place="margin">Gal. 2.10.</note> that God muſt weigh him before he know him, but it's ſpoken after the manner of Men: Hence <hi>David</hi> ſaith, <hi>Pſ.</hi> 139.23, 24. <hi>Search me, O God, and know my heart: try me, and know my thoughts, and ſee if there be any wicked way in me:</hi> There is Sin in me, too much Wickedneſs in my naughty Heart, God knows, but I dare appeal to thee, that there's no wicked way, or way of Wickedneſs, <hi>i. e.</hi> no ordinary Road, nor any uninterrupted Path of Sin in me; it doth not make a Thorow fair of my Soul. I give it many a turn, and dare appeal to thee, that I would be gladly rid of it.</p>
+            <p>All, I ſhall do in this point, is, to propound and anſwer this weighty Caſe of Conſcience. <hi>Queſt.</hi> How may a Chriſtian make it out in his Appeal to God, that he is not wicked? I confeſs, this is a great Queſtion, and hard to be reſolved, but I ſhall follow the Scripture-line in repreſenting the Good Soul's Caſe in his Appeal to God.</p>
+            <p n="1">1. Lord, thou knoweſt I am not as I have been, there's a great change wrought in my Heart and Life; a turn I have had, thou knoweſt, whether it be ſaving or no, <hi>whether from the power of Satan to God;</hi> but I can ſay, ſuch
+<note place="margin">Acts 25 18.1 Cor. 6.11.</note> ſuch a one I was, but I am not I, a new Frame I am put into,
+<pb n="4" facs="tcp:32939:8"/>thou knoweſt whether it be the new Creature;
+<note place="margin">2 Cor. 5.17.</note> the Stream of my Affections runs in another Channel, thou knoweſt whether in the Channel of Grace, and Heaven<g ref="char:EOLhyphen"/>wards.</p>
+            <p n="2">2. Thou knoweſt I have made a ſolemn Covenant with thy ſelf; thou knoweſt the time, place, manner, induce<g ref="char:EOLhyphen"/>ments, ends, witneſs of this Covenant; I did ſtudy the Nature of this Covenant,
+<note place="margin">Pſal. 73.25. Iſa. 41.5.2 Cor. 8.5.</note> and felt the Pulfe of my Soul, whether I was cordial in it, and I thought I choſe thee on<g ref="char:EOLhyphen"/>ly to be my chiefeſt Good and utmoſt End, and gave up my ſelf entirely to thee, when there was no witneſs be<g ref="char:EOLhyphen"/>ſides God and my own Conſcience; thou knoweſt whe<g ref="char:EOLhyphen"/>ther I had any Reſerves, Diſtinctions, Evaſions in this ſolemn Tranſaction; I have given thee the Keys of my Heart, and am glad of ſuch a Gueſt and Lord.</p>
+            <p n="3">3. Lord,
+<note place="margin">Iſal. 66.18.</note> thou knoweſt <hi>I do not regard Iniquity in my Heart,</hi> I cannot look pleaſantly upon it; there is a ſecret diſlike of every Sin, not only as Soul-damning, but as God diſhonouring;
+<note place="margin">Pſal. 119.104.</note> I hate every falſe way, as contrary to the Law of God; yea, methinks I find an Antipathy to it, as contrary to my new Nature; tho' ſuited to my carnal Palate, yet Grace raiſeth my Stomach againſt it, for the intrinſick Evil in it, as well as Conſequence of it, I hate it, tho' delectable, profitable; yea, and <hi>abhor what is evil,
+<note place="margin">Rom. 11.9. Jude 23.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> even the garment ſpotted by the Fleſh.</hi>
+            </p>
+            <p n="4">4. Lord, thou knoweſt I do daily reſolve and pray againſt Sin,
+<note place="margin">Mat. 6.13.</note> all Sin, of Heart and Life, thy ſelf is privy to my earneſt ſupplications, that I may not be led into Temptation,
+<note place="margin">Pſal. 141.3, 4. Gen. 39.9.</note> or left under the power of it; Lord, <hi>ſet a watch before my mouth, encline not my heart to any evil thing:
+<note place="margin">Pſal. 17.3.</note> God forbid I ſhould do this or that wickedneſs, and ſin againſt God. I am purpoſed that my mouth (hand, feet) ſhall not tranſgreſs.</hi> God hath heard my Prayer, and known my Vows againſt this and that particular Luſt, to which I was formerly addicted,
+<note place="margin">Pſal. 18.23.</note> and hope I can ſay as <hi>David, I was
+<pb n="5" facs="tcp:32939:8"/>alſo up<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> before him, and I kept my ſelf from mine ini<g ref="char:EOLhyphen"/>quity,</hi> it prevails not over me.</p>
+            <p n="5">5. Lord,
+<note place="margin">Rom. 6.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> thou knoweſt I am daily ſeeking not only to lop off the Branches, but to ſtub up the Roots of Sin, to cut off Members that but weaken and mortifie the Body of Deam, to <hi>crucifie the Fleſh, with the Affections and Luſts.</hi>
+               <note place="margin">Gal. 5.24.</note> Alas, it's not enough to ceaſe the Acts, but my Soul would weaken the Habits of Sin: Oh that the Old Man were <hi>crucified with Chriſt, that the body of Sin may be deſtroyed:</hi>
+               <note place="margin">Rom. 6.6.</note> The only Conqueſt is wrought by Chriſt's Death and Reſurrection; I do find it is nothing but <hi>the Law of Life in Christ Jeſus that muſt make me free from the law of Sin and Death: he only came to deſtroy the works of the Devil.</hi>
+               <note place="margin">Rom. 8.2.1 John 3.8.</note>
+            </p>
+            <p n="6">6. Lord, thou knoweſt I ſet my ſelf againſt ſecret and ſpiritual Sins; <hi>cleanſe thou me from ſecret ſins,
+<note place="margin">Pſal, 19.12, 13</note> as well as keep me back from preſunptuous ſins.</hi> I am afraid of Pride, hardneſs of Heart, lukewarmneſs, hypocriſie, vanity, for<g ref="char:EOLhyphen"/>mality, and all ſpiritual as well as fleſhly Wickedneſs.
+<note place="margin">2 Cor. 7 1.</note> Now I underſtand by the Holy Law,
+<note place="margin">Rom 7 7.</note> that the leaſt moti<g ref="char:EOLhyphen"/>ons of Sin in my Heart are evil, and deſerve Death; thou knoweſt whether I make not conſcience of thoſe Sins, which others make no reckoning of, even vain thoughts,
+<note place="margin">Pſal. 119 113</note> riſings <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p n="7">7. Lord, thou knoweſt the Conflicts and Combats betwixt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, <hi>the fleſh luſting against the ſpirit,
+<note place="margin">Gal 5 1. Cant. 6.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> and the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the fleſh.</hi> Methinks I find within me as it <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>panies of two Armies;</hi>
+               <note place="margin">Rom 6 14.</note> my Corruption is not on the Throne, but in the Field; Sin hath not do<g ref="char:EOLhyphen"/>minion over me: I am daily warring, and tho' I am oſt ſoiled by it, yet fall on again; it is not a King, but a Ty<g ref="char:EOLhyphen"/>rant in me; I go daily armed into the Field, and muſt militate under the Banner of my dear Lord, and ſhall be Conqueror.</p>
+            <p n="8">8. Lord, theſe Sins break my Heart, as they break out <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r work within, they lye as an heavy load on my
+<gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:32939:9"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:32939:9"/>
+               <pb n="6" facs="tcp:32939:10"/>Conſcience,
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 28. <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 7.24.</note> make me <hi>weary and heavy lan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> I cry, <hi>O wretched man that I am, who ſhall del<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> from this body of death?</hi> Thou knoweſt the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Groan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my Sin hath coſt me;
+<note place="margin">Pſal. 38 9</note> 
+               <hi>Lord, all my deſire is <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and my groaning is not hid from thee.</hi> One Sin ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> oft me more than all my other troubles; Oh my br<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Bones!</p>
+            <p n="9">9. Lord, <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 68 119 <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> thou knoweſt I love not the comp<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of wic<g ref="char:EOLhyphen"/>ked men I bid them oft <hi>depart from me,</hi> not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of oſten<g ref="char:EOLhyphen"/>tation, but for fear of infection; I would no<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> found among wicked men when my Lord calls: <hi>I'm <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not ſate with vain perſons;
+<note place="margin">Pſal. 25 4, 5</note> yea, I have hated the con<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ation of evil doors.</hi> I have oſt got either Guilt or Grief<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a need<g ref="char:EOLhyphen"/>leſs aſſociating with them; I hope thou wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot rank me with the wicked, whom I love not.</p>
+            <p n="10">10. Lord, thou knoweſt I have loved the Society of thy Saints and Servants;
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 110 63.</note> 
+               <hi>I am a Companion <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll them that fear thee,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 11<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 63. Pſal <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> theſe I account the <hi>Excellent <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arth, in whom is all my delight.</hi> I am ſure wicked Men love not thy Children, and I <hi>am ſure they are paſſed from Death to Life that love the brethrem.</hi> I love them, becauſe they are ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thee, my Heavenly Father, bea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> image, tho' <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oor in the World, and differ in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om me, yet my Heart is towards them, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nverſing with them in God's Worſhip and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p n="11">11. Lord, I love <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> tru<g ref="char:EOLhyphen"/>ly ſay, I love my Miniſter better <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, and the Word of God better for its Purity; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e me to know my Tranſgreſſions and my Sins.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </note> I love <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pal<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ating,
+<note place="margin">Job <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 23</note> but would have my wound ſearch'd to the bot<g ref="char:EOLhyphen"/>tom,
+<note place="margin">Pſal. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> that it may be ſafely cured; <hi>Let the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ite me,
+<note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 line">
+                        <desc>〈1 line〉</desc>
+                     </gap>
+                  </note> it ſhall be a kindneſs;</hi> yea, and <hi>Iſhmael</hi>'s <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> all do me good, by a ſolemn reflecting upon my <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p n="12">12. Lord, thou knoweſt whether my Soul, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> love thee and Jeſus Chriſt;
+<note place="margin">Pet. 2 <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> thou haſt ſaid <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:32939:10"/>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lieve Christ is precious,</hi> I have oſt been feeling the Pulſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my Soul, and at laſt dare appeal to thee with <hi>Peter, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rd, thou knoweſt that I love thee;</hi>
+               <note place="margin">John 4 15.</note> thy ſelf ſhalt vouch for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, and make my Affidavit: Thou ſhalt not have this <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>reſtation at my hand, but upon thine own knowledg. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hou art the <hi>chiefest of Ten thouſand;</hi> yea,
+<note place="margin">Cart <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Phil 3 8</note> doubtleſs <hi>I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unt all things but loſs for the Excellency of the knowledge of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hriſt.</hi>
+            </p>
+            <p n="13">13. Lord,
+<note place="margin">1 Joh. 2.15, 16</note> thou knoweſt what a poor ſorry thing I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccount the World to be in all its Glory and Gayety; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as, the Pleaſures, Profits, Honours of the World are a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oor Pageantry; I have made <hi>Moſes</hi>'s choice,
+<note place="margin">Heb 11 24.25</note> to <hi>ſuffer <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>flictions with the people of God, than the pleaſures of ſin,</hi> Honours and Offices in <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>haraoh</hi>'s Court. I can look thro' <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he beſt of the World, and can turn my back upon it, as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n empty inſignificant thing, tho' the Men of the World <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re content with it for their Portion.</p>
+            <p n="14">14. Lord, thou knoweſt the way that I take,
+<note place="margin">Job 23 20</note> and the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arneſt deſire and deſign of my Soul to walk in thy ways, to <hi>have reſpect to all thy Commandments,</hi>
+               <note place="margin">Pſal 110 6. Luke 1 6 Acts 13.22. Col. 4 12.</note> to attend <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n all thy Ordinances; I miſs it in all, but dare baulk <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>one; my aim is, <hi>to fulfil all Gods wills,</hi> to ſtand <hi>compleat <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n all the will of God;</hi> there's no Fleſh-diſpleaſing Duty, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſelf-denying Act, but I attempt to do it; if God ſay <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o it, I will not <hi>conſult Fleſh and Blood,</hi> but ſay,
+<note place="margin">Gal 1 16 Ezra 10 12. Pſal 26 12.</note> 
+               <hi>As thou <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dſt ſaid, ſo must I do, my Foot ſtandeth in an even place,</hi> conditions.</p>
+            <p n="15">15. Lord, thou knoweſt I do my beſt in every reli<g ref="char:EOLhyphen"/>gious Exerciſe,
+<note place="margin">2 Sam 21 24 Mat 22 37. Jer 48 10 Mal. 1 14.</note> God forbid that I ſhould <hi>offer to the Lord <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat which costs me nothing;</hi> I muſt <hi>love the Lord with all my ſoul, mind, strength,</hi> God forbid that I ſhould <hi>do the work of the Lord negligently,</hi> or <hi>offer to the Lord a corrupt thing.</hi> Oh that I could be more ſervent in <hi>Spirit in ſerving God.</hi> God deſerves more, my beſt is infinitely below him. Oh that I could do more! but alas, I am ſhort in all.</p>
+            <p n="16">
+               <pb n="8" facs="tcp:32939:11"/> 16. Lord, thou knoweſt my deſign in all I do is for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Glory, and the enjoyment of thee; I dare not look a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> both,
+<note place="margin">1 Cor. 10 30</note> then I loſe my ſelf in my natural, civil, ſpiritual Acts,
+<note place="margin">1 Pet 4 11. Rom. 14 8. Phil 1.20</note> all the Lines muſt and ſhall bend this way, that <hi>G<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> in all things may be glorified through Jeſus Chriſt;</hi> my deſign is, <hi>to live to the Lord, and to dye to the Lord, th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Chriſt may be magnified to my Body, by life or death:</hi> And Oh that I could enjoy Communion with God in every Duty and Ordinance! thou knoweſt this is my Heaven.</p>
+            <p n="17">17. Lord, thou knoweſt all my dependance is upon thy Majeſty, both for aſſiſtance and acceptance: <hi>I mu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> lean on my beloved:
+<note place="margin">Cant. 8.5 1 Cor. 15 10 2 Cor. 3 5</note> by the Grace of God I am what I am</hi> I cannot think a good thought without freſh Supplies o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Grace:
+<note place="margin">Phil 4 13 Pſal. 119 32 Rev. 8.3.</note> but <hi>I am able to do all things through the ſtrength of Chriſt:</hi> I ſhall <hi>run the ways of thy commandments when thou ſhalt enlarge my heart:</hi> and I lay all upon thy golden Altar to be accepted in the Beloved.</p>
+            <p n="18">18. Lord,
+<note place="margin">Phil. 3.14</note> thou knoweſt I am daily preſſing towards Perfection, I have not yet attained what I would fain<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be at: I would be mending what's amiſs, ſoaring up to an higher pitch in Grace,
+<note place="margin">2 Cor. 7.1 Col. 2.19. Eph. 4.15.</note> 
+               <hi>perfecting Holineſs in the fea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of God,</hi> encreaſing <hi>with all the encreaſe of God till I come to a perfect man.</hi> Alas, how much do I yet want of Perfecti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on? I would ſtill be ſinging the ſong of Degrees, <hi>And g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> from ſtrength to ſtrength,
+<note place="margin">Pſal. 84.7.</note> till I appear before God in</hi> Zion.</p>
+            <p n="19">19. Lord, thou knoweſt how much I am concern'd for the Church of God, which gives ſome grounds to hope I am a lively Member of that myſtical Body:
+<note place="margin">Pſal. 137.6.</note> 
+               <hi>If I forget</hi> Jeruſalem, <hi>let my right hand forget her cunning.</hi> Oh, it rai<g ref="char:EOLhyphen"/>ſeth my Heart to ſee the Goſpel propagated, <hi>Sinners</hi> con<g ref="char:EOLhyphen"/>verted, <hi>Saints</hi> edified, united: But oh, it runs to my Heart to ſee Chriſt's Intereſt laid low,
+<note place="margin">Pſal 119.136, 158. Mic. 7.1, 2, 3. Phil. 2 20.</note> the preaching of the Goſpel obſtructed, few Converts, Scandals breaking out, Contentions breaking in: <hi>Wo is me,—the good man is periſhed out of the earth:</hi> Wickedneſs abounds, Love
+<pb n="9" facs="tcp:32939:11"/>decays: [<hi>terras Aſtraea Reliquit</hi>] I may make that Lamen<g ref="char:EOLhyphen"/>tation, <hi>Iſa.</hi> 59.</p>
+            <p n="20">20. Lord, thou knoweſt, notwithſtanding all this,
+<note place="margin">Luke 17.10. Iſa. 61.5.</note> what a mean account I have of my ſelf and my poor doings <hi>[hor<g ref="char:EOLhyphen"/>reo quicquid de meo eſt];</hi> alas, my doings are but Dregs and Rags; I am ſtill an <hi>unprofitable Servant;</hi> I deſpair of my ſelf, <hi>I abhor my ſelf in duſt and aſhes,
+<note place="margin">Job 42 6.</note> I will be vile in mine own eyes:</hi> God may juſtly condemn me, notwithſtanding all I have done; yea, for all I have done, if God mark Iniquity,
+<note place="margin">Pſal. 130.3, 4. Exod 28 38.</note> O Lord, who ſhall ſtand? I fly to my Advocate Jeſus Chriſt, and deſire this New Teſtament. <hi>Aaron</hi> may <hi>take away the ini<g ref="char:EOLhyphen"/>quity of my holy things.</hi>
+            </p>
+            <p>I ſhall ſubjoin a few words of Application. <hi>First,</hi> for Doctrin. If God's Children thus appeal, then</p>
+            <p n="1">1. Others do not know their Hearts, for God's Children appeal not to Men as they do to God: No man knows another's Heart, and ſhould not pretend to it; that's a wild groundleſs Cenſure, ſuch carry fair, but their Hearts are naught. How knoweſt thou? Doſt thou uſurp God's Throne? The beſt Men have been deceived with others Profeſſions; ſo the beſt Church on Earth, with <hi>Simon Magus, Act.</hi> 8.13, 22. [<hi>De ſecretis non judicat Eccleſia.</hi>] The Church judgeth of overt-Acts, not of ſecret Thoughts.</p>
+            <p n="2">2. The moſt obſervant Perſons have much ado to know their own Hearts, but are glad to appeal to God. The Pro<g ref="char:EOLhyphen"/>phet ſaith, <hi>Who knows it? i. e.</hi> few:
+<note place="margin">Jer. 17 9.</note> It is a deep fathomleſs Pit. <hi>Hazael</hi> ſaid, <hi>Is thy Servant a Dog, that I ſhould do ſuch things? Peter</hi> was confident he ſhould never deny his Ma<g ref="char:EOLhyphen"/>ſter, but both fail'd. <hi>The inward thought of every one,
+<note place="margin">Pſal 64 6.</note> and their heart, is deep,</hi> ſaith the Pſalmiſt: It gives doubtful and deceirful Anſwers, like the Heathen Oracles;
+<note place="margin">Prov. 28 26.</note> 
+               <hi>He that truſt<g ref="char:EOLhyphen"/>eth in his own heart is a fool,</hi> it will certainly deceive him.</p>
+            <p n="3">3. Yet 'tis poſſible Men may know their ſpiritual Eſtate Godwards, elſe <hi>Job</hi> durſt not thus appeal to God: This Expreſſion ſpeaks ſome confidence in <hi>Job [Vox eſt non du<g ref="char:EOLhyphen"/>bitantis ſed aſſerentis];</hi> he doth not doubt, but aſſert his Inte<g ref="char:EOLhyphen"/>grity;
+<pb n="10" facs="tcp:32939:12"/>yea, <hi>Job</hi> ſaith, <hi>ch.</hi> 27.6. <hi>My righteouſneſs I hold faſt and will not let it go: my heart ſhall not reproach me as long <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> I live.</hi> It's poſſible Men may know whether they be in a ſtate of Grace or no; God hath given Conſcience for this End:
+<note place="margin">Prov. 26 27.</note> 
+               <hi>The ſpirit of man is the candle of the Lord, ſearching a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the inward parts of the belly.</hi> If Men were faithful, and would light their Candle at the Word, and make diligent ſearch they might know more.</p>
+            <p n="4">4. The whole World is diſtributed into two ſorts of Per<g ref="char:EOLhyphen"/>ſons, good and bad, godly and wicked, pious or prophane Two Loves, ſaith St. <hi>Augustin,</hi> built two Cities; the Love o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God built <hi>Zion,</hi> and Worldly Love built <hi>Babylon;</hi> the whole Race of Mankind are Inhabitants of theſe two Cities: And tho' carnal Men will not believe it, but think Men differ rather [<hi>gradu</hi> than <hi>ſpecie</hi>] only gradually, ſome better, others worſe, not in kind, yet a time is coming when they ſhall <hi>diſcern betwixt the righteous and the wicked, between him that ſerveth God,
+<note place="margin">Mal. 3 18.</note> and him that ſerveth him not;</hi> when <hi>the ſheep ſhall be ſet on the right hand,
+<note place="margin">Mat. 25.34.</note> and the goats on the left,</hi> and receive different Sentences from the Impartial Judge of the World: yea, at this day, as diſcriminating Grace makes a difference, ſo diſcriminating Preaching ſhews a difference among Men; yea, Miniſters muſt teach People the <hi>diffe<g ref="char:EOLhyphen"/>rence between holy and prophane,</hi>
+               <note place="margin">Ezek 44.23.2 Tim 2 15. Heb 4 12.</note> as well as <hi>divide the Word of God aright;</hi> and it is <hi>a diſcerner of the Thoughts</hi> and <hi>intents of the Heart.</hi> So that Men might ſee a vaſt difference, if they were not wilfully or judicially blind.</p>
+            <p>
+               <hi>Secondly,</hi> Another Uſe is, of Inſtruction and Admonition.</p>
+            <p n="1">1. To all ſorts of Perſons, to be and behave themſelves as ſuch as may make their Appeal to God. Oh, that all Chri<g ref="char:EOLhyphen"/>ſtians could ſay as the Church of old, <hi>Pſal.</hi> 44.17, 21. <hi>All this is come upon us, yet have we not forgotten thee, neither have we dealt falſly in thy covenant,</hi> &amp;c. <hi>Shall not God ſearch this out? for he knoweth the ſecrets of the heart.</hi> Oh Friends, what ſide are you of? God knows, it's fit you ſhould know. <hi>I know my ſheep.
+<note place="margin">John 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 14. John 2 24.</note> He needs not that any ſhould teſtifie of man,
+<pb n="11" facs="tcp:32939:12"/>for he knows what is in man.</hi> Look to't, if you be godly, God will own you as his; if not, <hi>be ſure your ſin will find you out.</hi>
+               <note place="margin">Numb. 32.23</note> Ask your ſelves, What am I, a Sheep or a Goat? Whoſe am I, GOD's Servant, or the Devil's Slave? What am I doing, GOD's Work, or the Devil's Drudgery? Whither am I going; to Heaven or Hell? What ſay you to the twen<g ref="char:EOLhyphen"/>ty 'foreſaid Appeals? Will your Hearts ingenuouſly eccho to them? If you ſay, Yes, compare your Hearts and Scri<g ref="char:EOLhyphen"/>pture, and go upon ſafe grounds; if not, tremble under Divine Wrath and the Sentence of Condemnation: Be di<g ref="char:EOLhyphen"/>ſtinct in this caſe, for you muſt be try'd another day.</p>
+            <p n="2">2. If you find that you are wicked, then woe be to you, whether you be openly prophane or ſecret Hypocrites: <hi>The light of the wicked ſhall be put out:
+<note place="margin">Job 18 5. Job 13.16. Pſal. 15.6.</note> An Hypocrite ſhall not come before God: The ungodly ſhall not stand in Judgment; for the Lord knoweth the way of the righteous, but the way of the ungodly ſhall periſh: The wicked must be ſilent in darkneſs;</hi>
+               <note place="margin">1 Sam. 2 9. Pſal 9.17. Pſal. 7 11. &amp; 11.6, 7.</note> yea, turned into Hell; yea, <hi>God is angry with the wicked eve<g ref="char:EOLhyphen"/>ry day;</hi> and <hi>He will rain upon them ſnares, fire and brimſtone, and an horrible tempeſt:</hi> Upon your Doors may be writ a <hi>Lord have mercy upon you;</hi> God will not own you, nor hear your Prayer, but ſay to the wicked,
+<note place="margin">Pſal. 50.16.</note> 
+               <hi>what hast thou to do to declare my statutes, or that thou ſhouldst take my covenant in thy mouth?</hi> All you do is ſinful, natural, civil Religious acts. <hi>The very plowing of the wicked is ſin;</hi>
+               <note place="margin">Prov. 21.4. Prov. 15.8. Iſa. 3 11. Rom. 25.9, 22</note> their <hi>Prayer is abomination,</hi> yea, <hi>their Sacrifice;</hi> it will be <hi>bitterneſs in the end. Say to the wicked, It ſhall be all with him.</hi> Yea, the longer you live, and the more miſchief you do, and the more mi<g ref="char:EOLhyphen"/>ſery you heap up, to ſit you for Deſtruction. Oh, therefore bethink your ſelves, repent, <hi>forſake your way and thoughts, that he may have mercy on you.</hi>
+               <note place="margin">Iſa. 55.6, 7.</note>
+            </p>
+            <p>
+               <hi>Third</hi> Uſe concerns God's Children, 1ſt, by way of Comfort; 2dly, Caution.</p>
+            <p n="1">1ſt, You that dare, and do thus appeal to God in ſinceri<g ref="char:EOLhyphen"/>ty, whoſe Hearts do not upbraid you, thank God for it; this very Appeal is a good Evidence of your Sincerity, and
+<pb n="12" facs="tcp:32939:13"/>will fortifie you, 1. Againſt the Cenſures of Men: God knows you better than men, and will clear you when men condemn you.
+<note place="margin">Pſal. 35 11, 24.</note> How often doth <hi>David</hi> chear up himſelf with this? Your Names may lye under a Cloud for a ſea<g ref="char:EOLhyphen"/>ſon,
+<note place="margin">Pſal. 37.6.</note> but <hi>God will bring forth your righteouſneſs as the light:</hi> Thus did he with holy <hi>Job.</hi> 2. Againſt Satan's ſore Tem<g ref="char:EOLhyphen"/>ptations; when he accuſeth you to God, he will ſay, <hi>The Lord rebuke thee,
+<note place="margin">Zech. 3.1, 2, 3, 4.1 John 3 26.</note> O Satan:</hi> He will take <hi>away your filthy gar<g ref="char:EOLhyphen"/>ments.</hi> When Satan accuſeth you to your ſelves, and Cen<g ref="char:EOLhyphen"/>ſcience condemns, <hi>God is greater than your Hearts,</hi> and will ſuperſede all theſe Pleas. 3. In the hour of ſad deſertion, when God hides his Face, withdraws his Grace, this will chear you when you can go to God, and ſay, <hi>Thou knoweſt I am not wicked;</hi> let God carry as he pleaſeth to me, his Kiſſes are his own, he doth me no wrong, I will cling to him ſtill, <hi>Though he kill me,
+<note place="margin">Job 13.15.</note> I will truſt in him;</hi> if he carry ſtrangely to me, yet he is good, worthy to be follow'd in the dark: <hi>I will ſtay my ſelf on the Lord my God.</hi>
+               <note place="margin">Iſa. 50.10.</note> 4. In a dying hour this will be a bleſſed Reflection, when a Soul can ſay with good <hi>Hezekiah,</hi> under the Sentence of Death, <hi>Iſa.</hi> 38.3. <hi>Remem<g ref="char:EOLhyphen"/>ber now, O Lord, I beſeech thee, how I have walked before thee in truth, and with a perfect heart.</hi> Oh happy Soul, that can look Death in the Face, and with confidence approach the tremendous Tribunal under the comfortable fence of this Upright and Scriptural Appeal!</p>
+            <p>Yet take a Caution or two,</p>
+            <p n="1">1. Take heed of Oſtentation, pride not your ſelves in it,
+<note place="margin">Job 9.20.</note> for this is contrary to the nature and ends of this Appeal. <hi>If I justifie myſelf,</hi>
+               <note place="margin">Job 46.4. &amp; 42.6.</note> ſaith <hi>Job, mine own mouth ſhall condemn me.</hi> Alas, I am far from Perfection; <hi>I am vile, what ſhall I an<g ref="char:EOLhyphen"/>ſwer thee? I will lay my hand upon my mouth; yea, I repent in duſt and aſhes.</hi> 2. The Lord Jeſus is to be our only Sure<g ref="char:EOLhyphen"/>ty,
+<note place="margin">Rom. 3.25, 26, 27.</note> to anſwer for us: <hi>where is boaſting? It is excluded; By what law? of works? nay, but by the law of Faith.</hi> The Goſpel-language is, <hi>In the Lord ſhall all the ſeed of</hi> Iſrael <hi>be justified, and ſhall glory,</hi> Iſa. 45.25.</p>
+            <pb n="13" facs="tcp:32939:13"/>
+            <p> Thus I have diſpatch'd the former part of my Text; I proceed to the latter, <hi>There is none that can deliver out of thine hand.</hi>
+            </p>
+            <p>What, none! then our condition were ſad, as forlorn as the fallen Angels; but none here muſt refer to meer Crea<g ref="char:EOLhyphen"/>tures, for Jeſus Chriſt can deliver us out of the hands of Juſtice, <hi>from preſent wrath, and wrath to come.</hi>
+               <note place="margin">1 Theſſ. 1.10</note>
+            </p>
+            <p>The Hand of God is the Power of God; Deliverance is either temporal, or ſpiritual, or eternal Deliverance; which way ſoever it be taken, it will afford this</p>
+            <p>Doct. <hi>That no means on Earth can reſcue a Perſon out of the Hands of the Infinite God.</hi>
+            </p>
+            <p>Job 9.12. <hi>Behold, he taketh away, who can hinder him? who will ſay unto him, what doeſt thou?</hi>
+            </p>
+            <p>In opening this Text and Doctrin, I ſhall obſerve this method:</p>
+            <p n="1">1. Shew the meaning of the Text.</p>
+            <p n="2">2. In what caſes Men are in GOD's Hand.</p>
+            <p n="3">3. What may moſt likely deliver Men.</p>
+            <p n="4">4. Why no Creature can deliver. So make Application.</p>
+            <p n="1">1. For the ſence and meaning of the words, Interpre<g ref="char:EOLhyphen"/>ters take them in a twofold ſence.</p>
+            <p>
+               <hi>First,</hi> Some take it as [<hi>vox dolentis</hi>] the Language of <hi>Job</hi>'s Sorrow and Complaint, moving God's Bowels of Compaſ<g ref="char:EOLhyphen"/>ſion: As if <hi>Job</hi> ſhould ſay, Lord, why doſt thou deal thus ſeverely with me? Who can reſcue me when thou arreſts me? Thou maiſt keep me under reſtraint for ever, and take time enough to puniſh me; thou needſt not ſet me upon ſuch a grievous wrack, as tho' I were in danger to be reſcued, or to eſcape thy hands, as men will take their penniworths of Malefactors while they have them; ſo Princes fearing a re<g ref="char:EOLhyphen"/>ſcue of the Priſoner, ſend forth a Writ of Execution to di<g ref="char:EOLhyphen"/>ſpatch him: The tormented Priſoner deſiring a diſpatch out of his Miſery by Death, was anſwer'd by the Tyrant, [<hi>Nondum tecum in gratiam redii</hi>] I am not ſo far Friends
+<pb n="14" facs="tcp:32939:14"/>with thee. It may be this Text is parallel to <hi>Ch.</hi> 7. where <hi>Job</hi> would be glad to be ſhut out of his Pain; <hi>But,</hi> ſaith he, <hi>I ſee I cannot till God's time;</hi> but, <hi>Lord, pity me, ſmite me not both ſharply and long.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Some make it ſound as [<hi>vox profitentis</hi>] <hi>Job</hi>'s heroick and magnanimous Profeſſion and ſtout Reſolution, to adhere to God and Duty, tho' he were kept under God's Hand all his days; <hi>q. d.</hi> Lord, I have appealed to thee that I am not wicked; and I hope hitherto my Integrity hath appeared, and, by thy Grace aſſiſting me, ſhall further ap<g ref="char:EOLhyphen"/>pear, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> none ſhould deliver me out of thine Hand; I hum<g ref="char:EOLhyphen"/>bly hope thou ſhalt find me holding mine Integrity as long as Life; do what thou wilt with me, I will honour thee: I hope to prove the Devil a Lyar,
+<note place="margin">Job 2.5.</note> who ſaid, <hi>I would curſe thee to thy Face;</hi> hitherto he is miſtaken, and I hope ſhall be by the Grace of God aſſiſting me; if I never be deliver'd, God ſhall not be blaſphem'd; I will for ever have good thoughts of God, whatever he do with me. If I cannot be deliver'd or ſatisfied about God's proceedings,
+<note place="margin">Jer. 12.1.</note> yet God <hi>ſhall be juſtified.</hi>
+            </p>
+            <p>Both theſe Sences are proper enough, we may take it in either.</p>
+            <p n="2">2. What it is to be in God's Hand. <hi>Anſ.</hi> God's Hand in Scripture-phraſe, implies theſe ten ſeveral things.</p>
+            <p n="1">1. God's Eternal Purpoſe and Deſign, <hi>Acts</hi> 4.28. <hi>For to do whatſoever thy hand and thy councel determined before to be done:</hi>
+               <note place="margin">Pſal 33.11.</note> This cannot be <hi>altered, the councel of the Lord ſtand<g ref="char:EOLhyphen"/>eth for ever, the thoughts of his heart to all generations.</hi> This is a Truth, but not pertinent here.</p>
+            <p n="2">2. God's ſupreme actual Power extended and put forth to do good, <hi>Acts</hi> 4.30. <hi>By ſtretching forth thine hand to heal.</hi> And this is true; when God will help and heal, the Devil and his Inſtruments cannot pluck the Patient out of God's Hand. Nor can this be the proper ſence here.</p>
+            <p n="3">3. By God's Hand, is meant his Proviſion for his Crea<g ref="char:EOLhyphen"/>tures; <hi>Pſal.</hi> 104.28. <hi>Thou openeſt thy hand, they are filled with good:</hi> And indeed, none can ſtarve thoſe that God will
+<pb n="15" facs="tcp:32939:14"/>ſupply, <hi>In the days of famine they ſhall be ſatisfied.</hi>
+               <note place="margin">Pſal. 37.19.</note> Yet this is not the meaning of the Text.</p>
+            <p n="4">4. God's diſpoſing ordering Providence is held forth by his Hand, <hi>Pſal.</hi> 31.15. <hi>My times are in thine hand.</hi> No mor<g ref="char:EOLhyphen"/>tal can lengthen or ſhorten my days but thy ſelf; <hi>Man's days are determined,</hi> God appoints theſe Bounds.
+<note place="margin">Job 14.5.</note> I think <hi>Job</hi> means not this directly here.</p>
+            <p n="5">5. By God's Hand is meant the Divine Aſſiſtance, <hi>Pſal.</hi> 74.11. <hi>Why withdraweſt thou thy hand, even thy right hand?</hi> This is either Protection or Help; <hi>Let thy hand be with the man of thy right hand.</hi> Indeed, none can hinder or weaken, if God ſtrengthen. Yet this is not the ſence.</p>
+            <p n="6">6. By Hand is meant God's ſpecial Love and Favour, <hi>Luk.</hi> 1.66. <hi>The hand of the Lord is with him, i.e. John Baptiſt;</hi> ſome peculiar Indulgence and viſible Tokens of God's Re<g ref="char:EOLhyphen"/>ſpect to him. This is a Mercy, that none can deprive the Saints of. Yet this is not meant.</p>
+            <p n="7">7. The operation and working of the Holy Spirit, <hi>Ezek.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.3. <hi>The Hand,</hi> i. e. <hi>the Spirit of the Lord was there upon him; Ch.</hi> 2.2. And whether this be extraordinary motions or ordinary, there's none can hinder or obſtruct theſe. This is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Truth, but not the meaning of this Text.</p>
+            <p n="8">8. By Hand, is meant any providential Diſpenſation, whe<g ref="char:EOLhyphen"/>her good or bad; <hi>Job</hi> 2.10. <hi>Shall we receive good at the and of God, and not evil?</hi> This is only God's Prerogative; <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> kill, and I make alive.</hi> This may be included in this Text. Yet it's not all.</p>
+            <p n="9">9. Yet more particularly, by Hand of God, is meant an land of Affliction. So ſaith <hi>David, Thy hand preſſeth me <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, Pſal.</hi> 38.2. Be it inward or outward, this I conceive to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the meaning, as <hi>Job</hi> ſaith, <hi>Have pity upon me,
+<note place="margin">Job —</note> O ye my <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riends, for the hand of the Lord hath touched me.</hi>
+            </p>
+            <p n="10">10. Or laſtly, by Hand of God is meant Death, <hi>Pſal.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9.15. <hi>God ſhall redeem my Soul from the power or hand of the Grave: To God the Lord belong the iſſues from death.</hi>
+               <note place="margin">Pſal 68.20.</note> If God <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill, who is he that can preſerve alive, or raiſe from the
+<pb n="16" facs="tcp:32939:15"/>Grave?
+<note place="margin">Deut. 32.39.</note> 
+               <hi>I kill,</hi> ſaith God, <hi>and I make alive, I wound and I heal, neither is there any that can deliver out of my hand.</hi> This laſt, and the former of Affliction, I conceive are meant by the Hand of God in my Text: and where are Men or Things that can ſecure us from Death or Trouble? What Power or Policy can prevent or remove by force or cun<g ref="char:EOLhyphen"/>ning, that Hand of God that He thinks good to bring upon us? Suppoſe God take away Eſtate, Friends, Relations, Health, Peace, Liberty, or Life, who can forbid him? Where lives that man that can reſcue theſe out of God's Hands<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> If God ſtop the Breath, who can hold it? The whole World muſt yield.</p>
+            <p n="3">3. The next Head to be handled is, Who or what in Men<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Opinion is judged moſt likely to deliver Perſons out of the Hand of God.</p>
+            <p n="1">1ſt, Men expect that their Riches, and Honours, and grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Friends ſhould deliver them; as that wretched Prelate, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cried out when dying,
+<q>Will Money do nothing? will my Prince's Favour avail nothing? why muſt I dye, that ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> command the greateſt part of the Kingdom?</q> No, no, <hi>Ri<g ref="char:EOLhyphen"/>ches profit not in the day of wrath;</hi>
+               <note place="margin">Prov 10 2. Pſal. 49.6, 7, 8, 9.</note> no, nor Treaſures; <hi>no<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of them can by any means redeem his brother, or give to God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ranſom for him.</hi> Men are miſtaken, if they think to purcha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Reprieve or Exemption from Death or any other Trouble Here Money bears no maſtery, a golden Key will not ope<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God's Priſon-door; there's no Bribe admitted in this caſe that can convey us from the Stroke of Juſtice: Alas, if God take Men away with his Stroke,
+<note place="margin">Job 36.17, 18, 19.</note> 
+               <hi>then a great Ranſom cannot deliver them.</hi> Will God eſteem mens Riches? No, no.</p>
+            <p n="2">2dly, Some have great confidence in an Arm of Fleſh they think natural Health, Vigor, Fortitude will ſtand the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in ſtead; but alas, what's become of the moſt vigoro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Spirits and Conſtitutions? Where is <hi>Xerxes</hi>'s Army of million of Men, with all their fortitude and magnanimity <hi>No man hath power over the ſpirit,
+<note place="margin">Eccl. 8.8.</note> to retain it: there's no d<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>charge in that war.</hi> The Forces of Strength cannot with
+<pb n="17" facs="tcp:32939:15"/>ſtand Aſſaults from Heaven, no more than Men can hinder drops of Rain from falling: Where's the doughty Cham<g ref="char:EOLhyphen"/>pion that can meet Arms with <hi>Jehovah?
+<note place="margin">John 9 4.</note> Who hath harden<g ref="char:EOLhyphen"/>ed himſelf againſt him, and hath proſpered?</hi> Are men, yea,
+<note place="margin">1 Cor 10 22 Job 34 29, 33</note> all men, <hi>ſtronger than God? When he giveth quietneſs, who then can make trouble?</hi> So on the contrary, <hi>He will recom<g ref="char:EOLhyphen"/>pence, whether men chuſe or refuſe: There is none that can deli<g ref="char:EOLhyphen"/>ver out of my hand,</hi> ſaith God; <hi>I will work,
+<note place="margin">Iſa. 43.13.</note> and who ſhall let it?</hi> All Attempts are in vain to keep off a Croſs, be it pub<g ref="char:EOLhyphen"/>lick or perſonal, to Soul or Body.</p>
+            <p n="3">3dly, Men make great reckoning of Wit, Parts, Learn<g ref="char:EOLhyphen"/>ing, or politick Stratagems; Men <hi>dig deep to hide their coun<g ref="char:EOLhyphen"/>ſels from the Lord,
+<note place="margin">Job 5 12, 13.</note> but God diſappointeth the devices of the crafty, ſo that their hands cannot perform their enterprize.</hi> The learnedſt Phyſicians cannot find out an Antidote againſt Sickneſs or Death. If men ſay, thus we will do,
+<note place="margin">Iſa. 7.6, 7.</note> if God ſay it ſhall not ſtand, he tumbles down the <hi>Babel</hi> of mens In<g ref="char:EOLhyphen"/>ventions; He ſaith, <hi>Take councel together,
+<note place="margin">Iſa 8.10.</note> and it ſhall come to naught.</hi> A whole College of Phyſicians, with all their Art and Learning, cannot cure ſo much as an <hi>Ague,</hi> which is cal<g ref="char:EOLhyphen"/>led <hi>[Ludibrium Medicorum],</hi> bids defiance to the Skill of the moſt learned; yea, the moſt contemptible Diſeaſe ſhall be the Door to let in Death, if God open the Door, for he alone keeps the Key: And ſo in all other caſes the great God can and oft doth knock the Pates of the wiſeſt Politici<g ref="char:EOLhyphen"/>ans together, and maketh their Counſels of none effect;
+<note place="margin">Prov. 21.32.</note> 
+               <hi>for there is no wiſdom, nor underſtanding, nor counſel againſt the Lord. Caeſar Borgias</hi> little thought of his own Sickneſs and Death when he had laid a deſign of managing all things to his own advantage after his Father's death,
+<note place="margin">Eccl. 8.7.</note> 
+               <hi>for man knoweth not that which ſhall be.</hi>
+            </p>
+            <p n="4">4. But there's one thing which is moſt likely to deliver out of the Hand of God, and that is true Religion, Piety, Holineſs; <hi>Righteouſneſs delivereth from death,</hi>
+               <note place="margin">Prov. 10 2.</note> and that in two reſpects; 1. The Piety and Prayers of others, <hi>Job</hi> 22.30. <hi>He ſhall deliver the iſland of the innocent, and it is delivered by
+<pb n="18" facs="tcp:32939:16"/>the pureneſs of thy hands:</hi> The poor wiſe <hi>man by his wiſdom delivered the city.</hi>
+               <note place="margin">Ec<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. 9.15.</note> God would have ſpared <hi>Sodom</hi> for ten righteous perſons in it;
+<note place="margin">Jer. 5 1.</note> and ſaith of <hi>Jeruſalem, If you can but find a man that executeth judgment and ſeeketh the truth,
+<note place="margin">Pſal. 106.23</note> and I will pardon it. Moſes</hi> prevailed for all <hi>Iſrael</hi> of an Ar<g ref="char:EOLhyphen"/>my of Six hundred thouſand men, then ſurely this will do. No,
+<note place="margin">Jer. 15.1.</note> ſometimes it will not: <hi>Though</hi> Moſes <hi>and</hi> Sumuel <hi>ſtood before me, yet my mind could not be towards this people: caſt them out of my ſight:</hi> Yea, tho' theſe three men, <hi>Noah, Da<g ref="char:EOLhyphen"/>niel,</hi> and <hi>Job, were in it, they ſhould but deliver their own ſoul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> by their righteouſneſs.</hi>
+               <note place="margin">Ezek 14.14.</note> If all the holy men on Earth ſhould in<g ref="char:EOLhyphen"/>terpoſe for one man, they cannot deliver him in ſome caſes. Nay, 2. A man's own Holineſs, Prayers, Piety, in ſome ca<g ref="char:EOLhyphen"/>ſes cannot deliver a choice Saint out of God's Hands, eſpe<g ref="char:EOLhyphen"/>cially as to temporal deliverance; <hi>Moſes</hi> himſelf muſt not go in <hi>Canaan,</hi> not <hi>Aaron.</hi> Some make this to be the ſence of this Text, <hi>[Non mea quidem integritus facit; ut [hac plaga li<g ref="char:EOLhyphen"/>berer];</hi> It is not my own Integrity that can free me from the Stroke of God's Hand: Tho' I be not wicked, yet I am not exempted from Affliction; no, nor any good man upon Earth;
+<note place="margin">Eccl. 9.1, 2. Pſal 73.10, 14 Heb. 12.7, 8</note> 
+               <hi>All things come alike to all;</hi> the beſt men may be ſadlieſt puniſhed: <hi>Waters of a full cup are wrung out to them, they have been chaſtened every morning:</hi> It's no ſign of God's Hatred, but rather of his Love, to correct his deareſt Chil<g ref="char:EOLhyphen"/>dren, yea, to ſtrike them with death. It's true, Righteouſ<g ref="char:EOLhyphen"/>neſs <hi>delivereth from death,</hi>
+               <note place="margin">Prov. 10.2</note> but not from natural, but ſpiri<g ref="char:EOLhyphen"/>tual and eternal death.
+<note place="margin">Joſh. 1.2</note> Moſes my ſervant is dead: Your Fa<g ref="char:EOLhyphen"/>thers,
+<note place="margin">Zech. 1.5.</note> 
+               <hi>where are they and the Prophets? do they live for ever? we muſt needs dye.</hi> It is the Royal Statute of Heaven: mens Holineſs and believing prayers cannot ſecure them from this Stroke, as daily Experience teſtifies.</p>
+            <p>4th Head is, the Reaſons why and whence it is that none can deliver out of the Hands of God.</p>
+            <p n="1">1. From GOD's Soveraignty and Man's Subjection; <hi>His Kingdom ruleth over all,</hi>
+               <note place="margin">Pſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>3 19</note> He is Supreme Lord and Law-giver to the vaſt Univerſe; coeleſtial and terreſtrial, yea, infer<g ref="char:EOLhyphen"/>nal
+<pb n="19" facs="tcp:32939:16"/>Creatures are under his command and controul; God put the greateſt Monarch on Earth ſeven years Apprentice to the Beaſts of the Earth, to learn this great Leſſon of the Almighty's Soveraignty, <hi>Dan.</hi> 4.35. <hi>All the inhabitants of the earth are reputed as nothing: None can ſay unto him, what doeſt thou?</hi> Things muſt be as God orders them.</p>
+            <p n="2">2. From GOD's power and Man's weakneſs. God is the Almighty; this is his eſſential Property,
+<note place="margin">Ge<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 7.1</note> whereby he can do all things; He created this World, hangeth the Earth upon nothing, and will burn it at the laſt day;
+<note place="margin">Heb. 11.3</note> he <hi>upholds all things with the Word of his power,</hi> and can diſſolve all in an inſtant; and <hi>Who is able to ſtand before him? Behold,
+<note place="margin">Iſa. 40.15, 17</note> the nations are as a drop of a bucket: yea, all nations before him are as nothing, yea, leſs than nothing, and vanity;</hi> Who can reſiſt him?</p>
+            <p n="3">3. From the Holineſs of GOD and Sin of Man. God is glorious in Holineſs, <hi>The Lord is righteous in all his ways,
+<note place="margin">Pſal. 145 17</note> and holy in all his works.</hi> Never could any of the Sons of Men challenge him for an irregular act from the beginning of the World to this day; all that have known God,
+<note place="margin">Jer. 12.1 Dan. 9 7. Lam. 3.39</note> have vin<g ref="char:EOLhyphen"/>dicated him, and condemned themſelves; <hi>God is righteous,</hi> but Man is puniſhed for his Sins. As Sinners cannot reſcue out of God's Hands, ſo, if they judge aright, they would not deliver themſelves, but ſay as <hi>David, I know, O Lord,
+<note place="margin">Pſal 119 7</note> that thy judgments are right, and that thou in faithfulneſs haſt affli<g ref="char:EOLhyphen"/>cted me.</hi>
+            </p>
+            <p n="4">4. From the Wiſdom of GOD, and Man's Fooliſhneſs. Alas, what would Man do with himſelf, if he were able to reſcue himſelf out of God's Hands? Cannot God diſpoſe of him better than he can do of himſelf?
+<note place="margin">Pſal. 147.5</note> Is not <hi>his under<g ref="char:EOLhyphen"/>ſtanding infinite?</hi>
+               <note place="margin">Rom. 8.28</note> Cannot God extract a medicinal Cup out of Poiſon, and make the worſt things work for the greateſt good to his Children? God is good to all, abundant in Goodneſs and Truth, and <hi>He doth good to them that be good;</hi>
+               <note place="margin">Pſal. 125.4 Deut 8, 2, 1<gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> yea, he doth good by the moſt unlikely means, he chaſtens his, that he may <hi>humble them, prove them, to do them good in
+<pb n="20" facs="tcp:32939:17"/>the later end.</hi> It were but madneſs then for a fooliſh man to deſire a deliverance out of the hands of ſuch a God, whoſe Works are wrought in number, weight, and meaſure, and diſpoſeth all things to the beſt.</p>
+            <p>
+               <hi>Uſe</hi> 1. Of Doctrine to inform us,</p>
+            <p n="1">1. That there is a God againſt Atheiſts, who <hi>ſay in their hearts,
+<note place="margin">Pſal. 14.1</note> there is no God;</hi> yea, ſome ſay it with their Tongues, and alas, too too many ſay it in their Lives. It's a proud <hi>Pharaoh</hi> that ſaith, <hi>who is the Lord? I know not the Lord, that I ſhould let</hi> Iſrael <hi>go,
+<note place="margin">Exod. 5.2</note> I will not let</hi> Iſrael <hi>go;</hi> but God will make him know his Power and Juſtice before he hath done with him; yea, the ſtouteſt Devils in Hell feel his Hand, and <hi>cannot but believe there is a God,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am. 2.19.</note> for none can deliver them out of his Hand: There's no Atheiſts in Hell, what<g ref="char:EOLhyphen"/>ever there may be on Earth.</p>
+            <p n="2">2. That God alone is abſolute Soveraign over the whole Univerſe, he alone rules the World, he hath a Chain that binds Men and Devils; Men may contradict his comman<g ref="char:EOLhyphen"/>ding Will, none can contradict his diſpoſing and puniſhing Will;
+<note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er. 10.7.</note> 
+               <hi>who would not fear thee, O King of Nations!</hi> God is abſolute Lord, all Creatures are his Subjects; God works immediately or mediately, and when he uſeth means, it is not <hi>[propter defectum ſuae Virtutis] ſed propter abundantiam ſuae bonitatis]</hi> for want of power in him, but his Goodneſs to us, to communicate Dignity to the Creatures in their in<g ref="char:EOLhyphen"/>ſtrumentality;
+<note place="margin">1 Sam. 14.6</note> 
+               <hi>for there's no reſtraint to the Lord, to ſave by many or by few,</hi> by any or by no Inſtruments at all.</p>
+            <p n="3">3. That it's wonderful Condeſcention that the great God will concern himſelf about ſorry Man,
+<note place="margin">Pſal. 113.6.</note> 
+               <hi>who humbleth himſelf to behold things in Heaven,
+<note place="margin">Job 7.17, 18.</note> and in the Earth. What is man, that thou ſhouldſt magnifie him, and that thou ſhouldſt ſet thine heart upon him?</hi>
+               <note place="margin">Pſal. 119.75.</note> Wherein? in viſiting and trying him. It's an act of God's care and faithfulneſs, when God will take the pains to whip us rather than forſake us; we are beholden to him for a Rod of Love, much more for deliverance out of Affli<g ref="char:EOLhyphen"/>ction,
+<note place="margin">Pſal 8.4. &amp; 144.3.</note> and advancing us by his right hand. This makes <hi>Da<g ref="char:EOLhyphen"/>vid</hi>
+               <pb n="21" facs="tcp:32939:17"/>twice break out into this exclamation, <hi>What is man, that thou art mindful of him, and takeſt knowledge of him?</hi>
+            </p>
+            <p n="4">4. Adore we the infinite Grace of God and Chriſt in the bleſſed Goſpel contrivance; Man had ſold himſelf to Sin, Satan, but Jeſus Chriſt came to deliver ſuch forlorn Cap<g ref="char:EOLhyphen"/>tives by price and by power, by the price of his Blood and the power of his Spirit;
+<note place="margin">1 Theſ. 1.10. Pſal. 68 8. Eph. 4 8.</note> thus <hi>Jeſus delivers ſouls from the wrath to come;</hi> he is mighty to ſave; read <hi>Iſa.</hi> 50.1.9.53. to 63.1, 2. <hi>He leads captivity captive,</hi> in his Aſcenſion, yea, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n his loweſt ſtate of Humiliation; even <hi>on the croſs he ſpoi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed principalities and powers, and makes a ſhew of them openly, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riumphing over them in it,</hi> Col. 2.15. All the Devils in Hell cannot keep a poor Child of Electing Love, whom God will <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et at liberty; and none can deliver out of God's hands but Chriſt: Oh, admire the Love of God in this Redeeming Love, which brings along with it temporal Bleſſings and Deliverance; <hi>for this man ſhall be the peace, when the</hi> Aſſyri<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <hi>ſhall come into our land,</hi> Micah 5.5, 6, 7.</p>
+            <p>2d Uſe is, of Conviction, in reſpect, 1. of Publick, 2. Perſonal Caſes.</p>
+            <p n="1">1. As to Publick Affairs, that refer to Church and State. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f God deliver us over into the hands of our Enemies, tho' they be but wounded Men, they ſhall prevail: if Men re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſe to drink of this Cup, the Lord of Hoſts ſaith,
+<note place="margin">Jer. 25 28.</note> 
+               <hi>Ye ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ertainly drink.</hi> It's not valiant Armies, numerous Forces, or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igh Fortifications that can ſecure us from Inundations of Divine Wrath:
+<note place="margin">Jer. 8.14.</note> God puts a People to ſhame and ſilence for their Sin: we may pleaſe our ſelves with Power and Poli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, they are inſignificant things againſt Divine Vengeance. There is a ſeaſon <hi>when a Nations Iniquity is full,</hi>
+               <note place="margin">Gen. 15.16.</note> then they muſt be deſtroy'd, and none can deliver:
+<note place="margin">Zech. 5.6, 11.</note> 
+               <hi>When the Ephah <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s full, the talent of Lead is clapt on its mouth,</hi> and the wings <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>arry it into its proper place of irrevocable Deſtruction. Alas, Iniquity abounds, Love decays, there's few Interceſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ors, much Confidence in an Arm of Fleſh, great Ingratitude <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nder former Deliverances; God may juſtly ſay, <hi>I will deli<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er you no more:</hi> we may be very jealous.
+<note place="margin">Joſh. 10.13.</note>
+            </p>
+            <p n="2">
+               <pb n="22" facs="tcp:32939:18"/> 2. As to particular Souls; let graceleſs Sinners tremble. O conſider,
+<note place="margin">Pſal. 50.22. Heb. 10.31.</note> poor Sinner, <hi>that forgetteſt God, lost he tear you in pieces, and there be none to deliver; it's a fearful thing to fall into the hands of flaming Juſtice.</hi> There are theſe ten conſi<g ref="char:EOLhyphen"/>derations that look in the unconverted Sinner under Wrath.</p>
+            <p n="1">1. <hi>Adam</hi>'s Sin left you Priſoners in the Hand of Juſtice, <hi>By Nature you are children of wrath.</hi> 2. Every Act of Sin ſink<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you deeper,
+<note place="margin">Eph. 2.3.</note> binds you faſter in this low Dungeon; <hi>The pages of ſin is death.</hi> 3. Satan is God's Jaylor, dragging you to Sin,
+<note place="margin">Rom 6.23.2 Tim. 2.26 Heb. 2.14, 15</note> and executing the Sentence of Death at laſt. 4. The righteous Law of God confirms the Sentence and Executi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on; <hi>we are ſhut up and kept priſoners under the law.</hi> 5.
+<note place="margin">Gal. 3.22, 23</note> He<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is the Goal where Sinners are kept as tormented Priſoner<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> till they have paid the <hi>utmoſt Farthing.</hi>
+               <note place="margin">Mat. 5 25, 26 Mat. 25.10.</note> 6. Death opens th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Door to Sinners admiſſion into that woful ſtate, and ſhut the Door of Hope. 7. Souls in that ſtate are together with <hi>Devils reſerved in chains of darkneſs, to the judgment of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> great day.</hi>
+               <note place="margin">Jude 6.</note> 8. Sinners may be caſt into this miſerable Du<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>geon un<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wares, and <hi>die with a lye in their right hand.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Non<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but Chriſt can reſcue Sinners out of the hands of Juſtice,
+<note place="margin">Iſa. 44.20.</note> an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>tranſlat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> us into glorious liberty.</hi> 10. None are redeemed b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Chriſt,
+<note place="margin">Col. 1.13.</note> but ſuch as are ſanctified and <hi>purified to himſelf, a p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> culiar people,
+<note place="margin">Tit. 2.14.</note> zealous of good works.</hi> Oh then, if all this be tru<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what will become of poor, graceleſs, Chriſtleſs Sinners Heaven is ſhut upon you, Hell is gaping for you, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> once damned,
+<note place="margin">Luke 16.26</note> for ever damned, for there's a great gult <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed, and there's no eſcaping out of that infernal Lake: <hi>O th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers in</hi> Zion <hi>were afraid, that fearefulneſs would ſurprize th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hypocrites,
+<note place="margin">Iſa. 33.14.</note> which may prevent their falling into this devou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> fire,</hi> theſe everlaſting burnings. Lord, open Sinners Eye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and turn them <hi>from darkneſs to light, and from the power <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Satan to God,
+<note place="margin">Acts 26.18</note> that they may receive forgiveneſs of ſins, and et<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nal inheritance.</hi>
+            </p>
+            <p>3<hi rend="sup">a</hi> Uſe is, of <hi>Inſtruction &amp; Exhortation,</hi> a to Sinners, 2. Sain<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p n="1">1. Examin your ſtate, O conſider whoſe hands you are i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you are in the hands either of God or the Devil, of Merc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="23" facs="tcp:32939:18"/>Juſtice. Lord, <hi>open the eyes of theſe men,</hi> that they may ſee.
+<note place="margin">2 Kin. 6.20</note> Oh that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ou could ſee your danger, and eſcape it; the diſcovery of danger <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a ſtep towards a Remedy: Poor Sinner, thou art in inviſible <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hains, Satan holds his black hand over thine Eyes: <hi>Awake thou <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſleepeſt and Chriſt ſhall give thee light.</hi>
+               <note place="margin">2 Cor. 4. Eph. 5.14</note>
+            </p>
+            <p n="2">2. Obſerve the Spirits motions, operations: when a light ſhines <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Priſon, obſerve if whether the Angel of the Lord do not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nite thee on the ſide, and raiſe thee up; oh, follow him,
+<note place="margin">Acts 12.7, 8</note> and <hi>thy <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hains will fall off:</hi> Who can tell, but if thou own the next graci<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us motion, but it may ſet thee a ſtep nearer God? Oh, <hi>quench not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e ſpirit,</hi> comply with divine calls, put your hand into God's hand,
+<note place="margin">1 Theſſ. 5.19</note> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d he will lead you towards himſelf.</p>
+            <p n="3">3. Renounce all Sin:
+<note place="margin">Pſal. 94.20. Iſal. 1.16, 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>The throne of iniquity hath no fellowſhip <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> God<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>waſh you, make you clean, put away your doings out of his ſight,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en come near to God, and you ſhall be familiar with him, and be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cured in the hollow of his hand: ſhall a ſoul ſin in God's hand? <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e endeavours to cut down the Bough whereon he ſtands; you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nnot ſerve two Maſters.</p>
+            <p n="4">4. Give up your ſelves to the Lord,
+<note place="margin">2 Chron. 30.8. Rom. 6.19</note> yield your ſelves to the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord, firſt your ſouls, then your bodies, as Inſtruments of Righte<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſneſs: you cannot expect that God ſhould take you into his hands <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll you have put your ſelves into his hands. <hi>David</hi> practiſeth it, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o thy hands I commend my ſpirit; Peter</hi> requires it,
+<note place="margin">Pſal. 31.5 1 Pet. 4.19</note> Let <hi>them that <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ffer according to the will of God, commit the keeping of their ſouls to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, in well doing, as to a faithful Creator.</hi>
+            </p>
+            <p n="1">II. A word or two to God's Children, 1ſt, ſuch as are under <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od's Hand; 2dly, or delivered.</p>
+            <p n="1">1st, If you be under God's Hand of Affliction, and ſee not how <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou can be delivered,</p>
+            <p n="1">1. Do not deſpond, ſay not as <hi>David, I ſhall one day periſh, put on <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atience,</hi> let it have its perfect work, look through the thick Cloud;
+<note place="margin">1 Sam. 27.1</note> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt tenebras ſpero lucem.</hi>
+            </p>
+            <p n="2">2. Own God's Hand, lay it not on Inſtruments: ſo did <hi>Job, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Lord hath given and taken away;</hi> juſtifie God in all;
+<note place="margin">Job 1.21.</note> it is fit it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould be ſo.</p>
+            <p n="3">3. Deſire rather God's Hand may be ſanctified than removed: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay more to be fitted for deliverance than releaſed from the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouble; precipitate not your Mercies.</p>
+            <p n="4">4. Get faſter hold of God by Faith and Prayer; ſay as <hi>Job,
+<note place="margin">Job 13.15</note> Tho' <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> kill me, yet I will truſt in him;</hi> ſtill own him as a Father, and He <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill own you as a Child: <hi>Glorifie God in the fire.</hi>
+               <note place="margin">Iſa. 24.16.</note>
+            </p>
+            <p n="2">2dly, To you that are delivered, I might add,</p>
+            <p n="1">1. Give God the Praiſe of your deliverance; ſo did <hi>David, Pſ.</hi> 30.</p>
+            <p>1.12. return back to give thanks</p>
+            <p n="2">
+               <pb n="24" facs="tcp:32939:19"/> 2. <note place="margin">
+                  <gap reason="illegible" resp="#PDCC" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </note> Love God more for himſelf; Benefits may be inducement but God himſelf is the only adequate Object of your deareſt Affect<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ons.
+<note place="margin">P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. 18.1. &amp; 116.1. Pſal. 66.16.</note> 
+               <hi>David</hi> twice profeſſed his ſtrong intenſe love after Affliction.</p>
+            <p n="3">3. Tell others what God hath done for you, in a ſuitable La<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>guage and Carriage; let your Lives be walking Bibles; live <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Perſons raiſed from the dead.</p>
+            <p n="4">4. Long to be with God in Heaven; not ſo much to be total<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> freed from the Lord's Hand of Affliction, as to be in his Boſom <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> immediate communion.</p>
+            <p>4th Uſe is, of Conſolation to God's Children; tho' God's Han<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be heavy upon you, and none can deliver you out of it, yet, 1. He <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Father ſtill, tho' offended, not a ſin-revenging Judge; in this lat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> caſe it's dreadful, in the former it's eligible. Compare 2 <hi>Sam.</hi> 24.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with <hi>Heb.</hi>
+               <note place="margin">Pſal. 89.31, 32</note> 16.31. His whipping, as a Father, is a Branch of G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpel-Covenant. 2. As none can deliver you out of his correcti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Hand, ſo none can pluck you out of his affecting Hand: Our Lo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Jeſus teſtifies this both of himſelf and his Father, who is great<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> than all, <hi>John</hi> 10.28, 29.3. While you are in His Hand you are his Eye, he never looks off you, <hi>You are graven upon the palms of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Hand, Iſa.</hi> 49.16. God takes ſpecial care of you in his Providen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 4. If you never be delivered out of God's Hand of Affliction, dea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will ſet you at liberty: there's two choice Cordials in 1 <hi>Cor.</hi> x.<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 1ſt, <hi>That you ſhall be inabled to bear your affliction;</hi> 2dly, That in d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time you ſhall have <hi>a way to eſcape.</hi>
+            </p>
+            <p>To conclude then, You <hi>Children of God</hi> be animated and great encourag'd in your Sufferings, by God or for God; tho' they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſharp and long, and no human help can avail to reſcue you, God c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and will; and you may ſay as the three Children, <hi>Dan.</hi> 3 17. <hi>If be ſo, our God whom we ſerve is able to deliver us from the burning fu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> furnate, and he will deliver us out of thine hand, O King.</hi> Yea, the Lo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will deliver you by his Hand of Mercy, out of the Hand of Juſtic<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yea,
+<note place="margin">2 Tim. 14, 18.</note> 
+               <hi>from every evil work of ſin in your ſouls,</hi> damning Sin, and ſinſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Contrivances of Men, and <hi>will preſerve you unto his heavenly king do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Study the Promiſes, reflect on Experiences, live by Faith, be much <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prayer, ſanctifie God's Name, and learn Obedience by what you ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fer under God's Hand and you will find all things <hi>working for yo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> good,</hi>
+               <note place="margin">Rom. 8.28</note> tho' you can't diſcern it at preſent. Happy Souls! who truſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, and live by Faith in evil times; for the Diſtich of honeſt <hi>M<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>culus</hi> is verified:
+<q>
+                  <l>
+                     <hi>Eſt Deus in Coele, qui provictus omnia curat,</hi>
+                  </l>
+                  <l>
+                     <hi>Credentes nuſquam deſeruiſſe poteſt:</hi>
+                  </l>
+               </q>
+               <q>
+                  <l>There is, a God in Heaven, who'll not leave</l>
+                  <l>Such-Souls on Earth as to him ever cleave.</l>
+               </q>
+            </p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:32939:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
